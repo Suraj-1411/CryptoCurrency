@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/prices"
+        android:title="Prices"
+        android:enabled="true"
+        />
+
+    <item
+        android:icon="@drawable/favorite"
+        android:title="Favorites"
+        android:enabled="true"
+        />
+
+    <item
+        android:icon="@drawable/portfolio"
+        android:title="PortFolio"
+        android:enabled="true"
+        />
+
+    <item
+        android:icon="@drawable/news_feed"
+        android:title="News"
+        android:enabled="true"
+        />
+
+    <item
+        android:icon="@drawable/invest"
+        android:title="Invest"
+        android:enabled="true"
+        />
+</menu>
